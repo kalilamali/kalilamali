@@ -18,6 +18,7 @@ My stack is:
 [<img align="left" alt="Latex" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />](github)
 [<img align="left" alt="Vim" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />](github)
 [<img align="left" alt="RStudio" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" />](github)
+[<img align="left" alt="Streamlit" width="40px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />](github)
 <br/><br/>
 
 <!--
