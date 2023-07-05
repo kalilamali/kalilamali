@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👩‍💻 I'm a Bioinformatician working on bacterial genomics and more.
+- 👩‍💻 I'm a Bioinformatician working on bacterial genomics.
 
 My stack is:
 <br/><br/>
