@@ -1,7 +1,6 @@
-### Hi there 👋
-- 👩‍💻 I'm a Bioinformatician.
+### Hi 👋
 
-My stack is:
+Here is an overview of my stack:
 <br/><br/>
 [<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />](github)
 [<img align="left" alt="R" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />](github)
